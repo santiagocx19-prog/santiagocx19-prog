@@ -19,4 +19,4 @@ Actualmente estoy desarrollando **FocusForge**, una API profesional construida c
 - Perfeccionando estructuras de datos en Python.
 
 ---
-📫 **Cómo contactarme:** [Tu correo o LinkedIn aquí]
+📫 **Cómo contactarme:** santiagocx19@gmail.com
