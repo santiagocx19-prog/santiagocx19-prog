@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 Desarrollador enfocado en construir soluciones eficientes con **Python** y **Java**. Me apasiona la arquitectura limpia y el aprendizaje continuo de nuevas tecnologías Backend.
 
 ## 🚀 Mi Proyecto Principal
